@@ -27,4 +27,8 @@ export const navData = [
         title: "Todo List",
         path: "/todo"
     },
+    {
+        title: "Search Listing",
+        path: "/search-listing"
+    },
 ]
